@@ -1,0 +1,26 @@
+#Sav Gov
+#I like mangoes.
+
+#I did this proyect in two ways:
+#First as task stated using several print statements.
+print(" SSS           GGG")
+print("S   S         G   G")
+print("S             G")
+print(" SSS          G  GGG")
+print("    S         G    G"  )
+print("S   S         G    G")
+print(" SSS           GGG")
+
+
+
+
+
+#Second way of doing it was with """
+print ("""
+         SSS           GGG
+        S   S         G    G
+        S             G
+         SSS          G   GGG
+             S        G     G
+        S    S        G     G
+         SSS           GGGGG """)
